@@ -133,6 +133,7 @@ Doris supports a variety of storage models and has optimized them for different 
 Doris also supports strongly consistent materialized views. Materialized views are automatically selected and updated, which greatly reduces maintenance costs for users.
 
 ### 🔍 Query Engine
+## By Mudassir Alam
 
 Doris adopts the MPP model in its query engine to realize parallel execution between and within nodes. It also supports distributed shuffle join for multiple large tables so as to handle complex queries.
 
